@@ -1,4 +1,9 @@
-### Hi there 👋
+# Halo semua!
+
+Perkenalkan nama saya **Usup Suparma**.\
+Saya seorang **Software Developer** di [BIJB](https://www.bijb.co.id).\
+Saya bertugas membuat aplikasi yang ada di BIJB
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/usupsuparma/)ku ya.
 
 <!--
 **usupsuparma/usupsuparma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
