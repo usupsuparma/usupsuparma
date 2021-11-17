@@ -1,8 +1,8 @@
-# Halo semua!
+# Hi guys!
 
-Perkenalkan nama saya **Usup Suparma**.\
-Saya seorang **Software Developer** di [BIJB](https://www.bijb.co.id).\
-Saya bertugas membuat aplikasi yang ada di BIJB
+My name is **Usup Suparma**.\
+I'm  **Software Developer** di [BIJB](https://www.bijb.co.id).\
+I’m currently working on BIJB
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/usupsuparma/)ku ya.
 
 <!--
