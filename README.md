@@ -1,8 +1,7 @@
 # Hi guys!
 
 My name is **Usup Suparma**.\
-I'm  **Software Developer** di [BIJB](https://www.bijb.co.id).\
-I’m currently working on BIJB
+I'm  **Software Developer** 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/usupsuparma/)ku ya.
 
 <!--
